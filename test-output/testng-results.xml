@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88" started-at="2023-01-28T17:00:39 IST" finished-at="2023-01-28T17:00:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88" started-at="2023-01-28T17:00:39 IST" finished-at="2023-01-28T17:00:39 IST">
+      <class name="gitPractice.Practice">
+        <test-method status="PASS" signature="hello()[pri:0, instance:gitPractice.Practice@6895a785]" name="hello" duration-ms="19" started-at="2023-01-28T17:00:39 IST" finished-at="2023-01-28T17:00:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+        <test-method status="PASS" signature="hello2()[pri:0, instance:gitPractice.Practice@6895a785]" name="hello2" duration-ms="3" started-at="2023-01-28T17:00:39 IST" finished-at="2023-01-28T17:00:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello2 -->
+      </class> <!-- gitPractice.Practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
